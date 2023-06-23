@@ -39,7 +39,7 @@ education:
     - course: MS in Computer Science
       institution: Wayne State University
       year: 12/2020
-    - course: BSc in Telecommunication Engineering
+    - course: BS in Telecommunication Engineering
       institution: Xidian University
       year: 06/2017
 
