@@ -35,13 +35,13 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Wayne State University
-      year: 2023
+      year: 03/2023
     - course: MS in Computer Science
       institution: Wayne State University
-      year: 2021
+      year: 12/2020
     - course: BSc in Telecommunication Engineering
       institution: Xidian University
-      year: 2017
+      year: 06/2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
