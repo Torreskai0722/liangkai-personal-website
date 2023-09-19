@@ -80,5 +80,14 @@ email: ''
 highlight_name: true
 ---
 
-Liangkai Liu is a Postdoctoral Research Fellow at the University of Delaware. His research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+CS Research Fellow at University of Michgan, Real-Time Computing Laboratory (RTCL), working with Prof. Kang G. Shin. I did my PhD at Wayne State University's Connected and Autonomous Research Lab (CAR), working with Prof. Weisong Shi. 
+
+My research is at the intersection of Autonomous Driving and Computing Systems.
+
+Current focus on safe & predictable ML systems for CAVs.
+
+You can reach me at liangkai at umich dot edu.
+
+Office: 4944 Beyster
+
 {style="text-align: justify;"}
