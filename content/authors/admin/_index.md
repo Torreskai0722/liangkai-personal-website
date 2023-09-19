@@ -35,7 +35,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Wayne State University
-      year: 03/2023
+      year: 05/2023
     - course: MS in Computer Science
       institution: Wayne State University
       year: 12/2020
