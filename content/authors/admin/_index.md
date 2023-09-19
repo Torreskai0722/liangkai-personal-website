@@ -80,13 +80,11 @@ email: ''
 highlight_name: true
 ---
 
-CS Research Fellow at University of Michgan, Real-Time Computing Laboratory (RTCL), working with Prof. Kang G. Shin. I got my PhD at Wayne State University's Connected and Autonomous Research Lab (CAR), working with Prof. Weisong Shi. 
+CS Research Fellow at [University of Michgan](https://cse.engin.umich.edu/), [Real-Time Computing Laboratory (RTCL)](https://rtcl.eecs.umich.edu/rtclweb/), working with Prof. [Kang G. Shin](https://web.eecs.umich.edu/~kgshin/). I got my PhD at Wayne State University's [Connected and Autonomous Research Lab (CAR)](https://www.thecarlab.org/), working with Prof. [Weisong Shi](https://weisongshi.org/). 
 
-My research is at the intersection of Autonomous Driving and Computing Systems.
+My research is at the intersection of [Autonomous Driving and Computing Systems](https://weisongshi.org/papers/liu21-CSAD.pdf).
 
 Current focus on safe & predictable ML systems for CAVs.
-
-You can reach me at liangkai at umich dot edu.
 
 Office: 4944 Beyster
 
