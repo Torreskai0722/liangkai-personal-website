@@ -71,7 +71,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/Liangkai_Liu_resume.pdf
+    link: https://drive.google.com/file/d/1cXM5n_EcKMxBJh7u_CriPWmEhMNhZJI6/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
