@@ -76,12 +76,12 @@ sections:
           location: Ann Arbor, MI
           date_start: '2023-09-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          # description: |2-
+          #     Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+          #     * Analysing
+          #     * Modelling
+          #     * Deploying
         - title: Research Intern
           company: Argonne National Laboratory
           company_url: ''
@@ -89,7 +89,7 @@ sections:
           location: Lemont, IL
           date_start: '2021-05-31'
           date_end: '2021-08-30'
-          description: doing research under the SAGE project.
+          # description: doing research under the SAGE project.
         - title: Research Intern
           company: Argonne National Laboratory
           company_url: ''
@@ -97,7 +97,7 @@ sections:
           location: Lemont, IL
           date_start: '2020-05-31'
           date_end: '2020-08-30'
-          description: doing research under the SAGE project.
+          # description: doing research under the SAGE project.
     design:
       columns: '2'
   # - block: accomplishments
