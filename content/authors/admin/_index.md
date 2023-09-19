@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoc
+role: Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Delaware
-    url: https://www.udel.edu/
+  - name: University of Michigan
+    url: https://cse.engin.umich.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include computing systems for autonomous driving, edge computing, distributed systems.
@@ -80,7 +80,7 @@ email: ''
 highlight_name: true
 ---
 
-CS Research Fellow at University of Michgan, Real-Time Computing Laboratory (RTCL), working with Prof. Kang G. Shin. I did my PhD at Wayne State University's Connected and Autonomous Research Lab (CAR), working with Prof. Weisong Shi. 
+CS Research Fellow at University of Michgan, Real-Time Computing Laboratory (RTCL), working with Prof. Kang G. Shin. I got my PhD at Wayne State University's Connected and Autonomous Research Lab (CAR), working with Prof. Weisong Shi. 
 
 My research is at the intersection of Autonomous Driving and Computing Systems.
 
