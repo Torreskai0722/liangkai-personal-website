@@ -82,6 +82,22 @@ sections:
           #     * Analysing
           #     * Modelling
           #     * Deploying
+        - title: Visiting Postdoctual Researcher
+          company: University of Delaware
+          company_url: ''
+          company_logo: 
+          location: Newark, DE
+          date_start: '2023-05-01'
+          date_end: '2023-09-01'
+          # description: doing research under the SAGE project.
+        - title: Graduate Research Assistant
+          company: Wayne State University
+          company_url: ''
+          company_logo: 
+          location: Detroit, MI
+          date_start: '2018-01-01'
+          date_end: '2023-05-01'
+          # description: doing research under the SAGE project.
         - title: Research Intern
           company: Argonne National Laboratory
           company_url: ''
