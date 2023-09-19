@@ -26,7 +26,8 @@ bio: My research interests include computing systems for autonomous driving, edg
 
 # Interests to show in About widget
 interests:
-  - Computing Systems for Autonomous Driving
+  - Computing Systems
+  - Autonomous Driving
   - Edge Computing
   - Distributed Systems
 
@@ -35,13 +36,13 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Wayne State University
-      year: 01/2018 - 05/2023
-    # - course: MS in Computer Science
-    #   institution: Wayne State University
-    #   year: 12/2020
+      year: 05/2023
+    - course: MS in Computer Science
+      institution: Wayne State University
+      year: 12/2020
     - course: BS in Telecommunication Engineering
       institution: Xidian University
-      year: 09/2013 - 06/2017
+      year: 06/2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -74,7 +75,7 @@ social:
     link: https://drive.google.com/file/d/1cXM5n_EcKMxBJh7u_CriPWmEhMNhZJI6/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'liangkai@umich.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
