@@ -82,7 +82,7 @@ sections:
           #     * Analysing
           #     * Modelling
           #     * Deploying
-        - title: Visiting Postdoctual Researcher
+        - title: Visiting Postdoctoral Researcher
           company: University of Delaware
           company_url: ''
           company_logo: 
