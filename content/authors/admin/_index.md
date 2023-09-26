@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Liangkai Liu 刘良凯
+title: Liangkai Liu
 
 # Full name (for SEO)
 first_name: Liangkai
