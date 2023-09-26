@@ -38,7 +38,7 @@ summary: In this work, we analyze the time variation in DNN inference in fine gr
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: False
 
 # Custom links (uncomment lines below)
 # links:
