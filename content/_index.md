@@ -199,10 +199,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: AV
+        - name: Autonomous Driving
           tag: Autonomous Driving
         - name: Edge Computing
-          tag: Edge
+          tag: Edge Computing
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
