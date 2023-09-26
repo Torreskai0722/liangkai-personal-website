@@ -199,7 +199,7 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Autonomous Driving
+        - name: AV
           tag: Autonomous Driving
         - name: Edge Computing
           tag: Edge
