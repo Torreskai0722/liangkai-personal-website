@@ -67,7 +67,7 @@ url_pdf: 'https://arxiv.org/abs/2209.05487'
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - AV
+  - Autonomous Driving
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
