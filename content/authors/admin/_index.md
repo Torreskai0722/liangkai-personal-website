@@ -87,6 +87,6 @@ My research is at the intersection of [Autonomous Driving and Computing Systems]
 
 Current focus on safe & predictable ML systems for CAVs.
 
-<!-- Office: 4944 Beyster -->
+# Office: 4944 Beyster
 
 {style="text-align: justify;"}
