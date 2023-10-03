@@ -21,7 +21,7 @@ authors:
   - Weisong Shi
 publication: In Proceedings of the Fourth Workshop on Benchmarking Machine
   Learning Workloads on Emerging Hardware (MLBench)
-publication_short: In MLBench
+publication_short: ""
 featured: false
 tags: []
 projects:
