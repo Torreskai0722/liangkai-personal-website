@@ -4,7 +4,7 @@ title: "E2M: An Energy-Efficient Middleware for Computer Vision Applications on
 publication_types:
   - "1"
 authors:
-  - Liangkai Liu
+  - admin
   - Jiamin Chen
   - Marco Brocanelli
   - Weisong Shi
@@ -14,5 +14,5 @@ abstract: ""
 draft: false
 featured: false
 date: 2019-01-01
-publishDate: 2023-10-03T01:35:39.521168Z
+publishDate: 2023-10-03T01:35:39.521Z
 ---
