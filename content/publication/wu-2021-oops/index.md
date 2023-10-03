@@ -14,7 +14,7 @@ authors:
 publication: "*IEEE Robotics and Automation Letters*"
 abstract: ""
 draft: false
-featured: true
+featured: false
 tags: []
 categories: []
 projects: []

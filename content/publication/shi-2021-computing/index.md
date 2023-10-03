@@ -8,7 +8,7 @@ authors:
 publication: "*Springer*"
 abstract: ""
 draft: false
-featured: true
+featured: false
 image:
   filename: csad.png
 date: 2021-01-01
