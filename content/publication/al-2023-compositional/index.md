@@ -14,7 +14,7 @@ publication: "*2023 IEEE 29th Real-Time and Embedded Technology and Applications
 publication_short: ""
 abstract: ""
 draft: false
-featured: true
+featured: false
 date: 2023-01-01
 publishDate: 2023-10-03T01:35:40.071Z
 ---
