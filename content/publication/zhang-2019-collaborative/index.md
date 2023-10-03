@@ -8,7 +8,7 @@ authors:
   - admin
   - Yunfei Xu
   - Weisong Shi
-publication: "*Proceedings of the 4th ACM/IEEE Symposium on Edge Computing*"
+publication: "*Proceedings of the 4th ACM/IEEE Symposium on Edge Computing (SEC)*"
 publication_short: ""
 abstract: ""
 draft: false
