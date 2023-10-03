@@ -11,9 +11,9 @@ authors:
   - Weisong Shi
   - Hong Zhong
 publication: 2018 IEEE 38th International Conference on Distributed Computing Systems
-publication_short: in ICDCS
+publication_short: ""
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: ""
