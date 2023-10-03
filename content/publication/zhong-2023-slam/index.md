@@ -1,17 +1,17 @@
 ---
 title: SLAM Sharing Among Heterogeneous Sensors
-date: '2023-01-01'
-draft: true
-publishDate: '2023-10-03T01:35:40.192682Z'
-authors:
-- Ren Zhong
-- Liangkai Liu
-- Weisong Shi
 publication_types:
-- '1'
-abstract: ''
+  - "1"
+authors:
+  - Ren Zhong
+  - admin
+  - Weisong Shi
+publication: "*2023 IEEE International Conference on Mobility, Operations,
+  Services and Technologies (MOST)*"
+publication_short: in MOST 2023
+abstract: ""
+draft: false
 featured: false
-publication: '*2023 IEEE International Conference on Mobility, Operations, Services
-  and Technologies (MOST)*'
+date: 2023-01-01
+publishDate: 2023-10-03T01:35:40.192682Z
 ---
-

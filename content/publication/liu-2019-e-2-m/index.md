@@ -1,18 +1,18 @@
 ---
-title: 'E2M: an energy-efficient middleware for computer vision applications on autonomous
-  mobile robots'
-date: '2019-01-01'
-draft: true
-publishDate: '2023-10-03T01:35:39.521168Z'
-authors:
-- Liangkai Liu
-- Jiamin Chen
-- Marco Brocanelli
-- Weisong Shi
+title: "E2M: An Energy-Efficient Middleware for Computer Vision Applications on
+  Autonomous Mobile Robots"
 publication_types:
-- '1'
-abstract: ''
+  - "1"
+authors:
+  - admin
+  - Jiamin Chen
+  - Marco Brocanelli
+  - Weisong Shi
+publication: "*Proceedings of the 4th ACM/IEEE Symposium on Edge Computing*"
+publication_short: in SEC'19
+abstract: ""
+draft: false
 featured: false
-publication: '*Proceedings of the 4th ACM/IEEE Symposium on Edge Computing*'
+date: 2019-01-01
+publishDate: 2023-10-03T01:35:39.521Z
 ---
-
