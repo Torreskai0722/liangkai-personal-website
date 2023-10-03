@@ -8,8 +8,8 @@ authors:
   - admin
   - Yifan Wang
   - Weisong Shi
-publication: 2020 IEEE international parallel and distributed processing
-  symposium Workshops (IPDPSW)
+publication: 2020 IEEE International Parallel and Distributed Processing
+  Symposium Workshops (IPDPSW)
 publication_short: ""
 abstract: ""
 draft: false
