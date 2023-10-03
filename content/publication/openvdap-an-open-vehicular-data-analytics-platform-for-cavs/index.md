@@ -3,13 +3,13 @@ title: "OpenVDAP: An open vehicular data analytics platform for CAVs"
 publication_types:
   - "1"
 authors:
-  - Zhang Qingyang
-  - Wang Yifan
-  - Zhang Xingzhou
+  - Qingyang Zhang
+  - Yifan Wang
+  - Xingzhou Zhang
   - admin
-  - Wu Xiaopei
-  - Shi Weisong
-  - Zhong Hong
+  - Xiaopei Wu
+  - Weisong Shi
+  - Hong Zhong
 publication: 2018 IEEE 38th International Conference on Distributed Computing Systems
 publication_short: ICDCS
 draft: false
