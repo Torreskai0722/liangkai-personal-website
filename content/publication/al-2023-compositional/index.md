@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Abdullah Al Arafat
   - Sudharsan Vaidhun
-  - Liangkai Liu
+  - admin
   - Kecheng Yang
   - Zhishan Guo
 publication: 2023 IEEE 29th Real-Time and Embedded Technology and Applications
@@ -16,5 +16,5 @@ abstract: ""
 draft: false
 featured: false
 date: 2023-01-01
-publishDate: 2023-10-03T01:35:40.071174Z
+publishDate: 2023-10-03T01:35:40.071Z
 ---
