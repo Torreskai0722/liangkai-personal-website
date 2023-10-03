@@ -10,8 +10,8 @@ authors:
   - Mu Qiao
   - Weisong Shi
 publication: 2018 IEEE/ACM Symposium on Edge Computing (SEC)
-publication_short: In SEC'18
-featured: false
+publication_short: ""
+featured: true
 tags: []
 projects:
   - Autonomous Driving
