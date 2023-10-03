@@ -10,7 +10,8 @@ authors:
   - Xiaopei Wu
   - Weisong Shi
   - Hong Zhong
-publication: 2018 IEEE 38th International Conference on Distributed Computing Systems
+publication: "*2018 IEEE 38th International Conference on Distributed Computing
+  Systems (ICDCS)*"
 publication_short: ""
 draft: false
 featured: true
