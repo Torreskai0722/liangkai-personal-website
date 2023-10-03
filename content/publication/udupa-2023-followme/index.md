@@ -9,10 +9,10 @@ authors:
   - Weisong Shi
 publication: "*2023 IEEE International Conference on Mobility, Operations,
   Services and Technologies (MOST)*"
-publication_short: MOST 2023
+publication_short: ""
 abstract: ""
 draft: false
 featured: false
 date: 2023-01-01
-publishDate: 2023-10-03T01:35:40.131961Z
+publishDate: 2023-10-03T01:35:40.131Z
 ---
