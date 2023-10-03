@@ -9,10 +9,10 @@ authors:
   - Yanzhi Wang
   - Weisong Shi
 publication: "*2022 IEEE Real-Time Systems Symposium (RTSS)*"
-publication_short: RTSS'22
+publication_short: ""
 abstract: ""
 draft: false
-featured: false
+featured: true
 date: 2022-01-01
-publishDate: 2023-10-03T01:35:39.948803Z
+publishDate: 2023-10-03T01:35:39.948Z
 ---
