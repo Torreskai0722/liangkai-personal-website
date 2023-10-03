@@ -9,10 +9,10 @@ authors:
   - Nathan Fisher
   - Weisong Shi
 publication: "*2023 IEEE International Conference on Robotics and Automation (ICRA)*"
-publication_short: ICRA'23
+publication_short: ""
 abstract: ""
 draft: false
-featured: false
+featured: true
 date: 2023-01-01
-publishDate: 2023-10-03T01:35:40.009422Z
+publishDate: 2023-10-03T01:35:40.009Z
 ---
