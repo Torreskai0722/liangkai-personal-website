@@ -12,6 +12,7 @@ authors:
   - Hong Zhong
 publication: "*2018 IEEE 38th International Conference on Distributed Computing
   Systems (ICDCS)*"
+url_pdf: https://www.weisongshi.org/papers/zhang18-OpenVDAP.pdf
 publication_short: ""
 draft: false
 featured: true

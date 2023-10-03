@@ -11,6 +11,7 @@ authors:
   - Yifan Wang
   - Weisong Shi
 publication: "*Proceedings of the IEEE*"
+url_pdf: https://www.weisongshi.org/papers/liu19-EdgeAV.pdf
 abstract: ""
 draft: false
 featured: true

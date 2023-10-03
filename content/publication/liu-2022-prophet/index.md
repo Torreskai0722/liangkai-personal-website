@@ -9,6 +9,7 @@ authors:
   - Yanzhi Wang
   - Weisong Shi
 publication: "*2022 IEEE Real-Time Systems Symposium (RTSS)*"
+url_pdf: https://www.weisongshi.org/papers/liu22-prophet.pdf
 publication_short: ""
 abstract: ""
 draft: false

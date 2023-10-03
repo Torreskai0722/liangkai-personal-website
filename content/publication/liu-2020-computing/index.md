@@ -12,6 +12,7 @@ authors:
   - Qingyang Zhang
   - Weisong Shi
 publication: "*IEEE Internet of Things Journal*"
+url_pdf: https://www.weisongshi.org/papers/liu21-CSAD.pdf
 abstract: ""
 draft: false
 featured: true

@@ -8,6 +8,7 @@ authors:
   - Xingzhou Zhang
   - Weisong Shi
 publication: "*2nd USENIX Workshop on Hot Topics in Edge Computing (HotEdge 19)*"
+url_pdf: https://www.weisongshi.org/papers/wang19-HydraOne.pdf
 publication_short: ""
 abstract: ""
 draft: false

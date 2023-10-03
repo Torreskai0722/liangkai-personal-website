@@ -11,6 +11,7 @@ authors:
   - Ruigang Yang
   - Weisong Shi
 publication: "*IEEE Transactions on Intelligent Transportation Systems*"
+url_pdf: https://www.weisongshi.org/papers/liu23-fuel.pdf
 abstract: ""
 draft: false
 featured: true

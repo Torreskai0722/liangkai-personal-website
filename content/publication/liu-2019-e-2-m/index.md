@@ -9,6 +9,7 @@ authors:
   - Marco Brocanelli
   - Weisong Shi
 publication: "*Proceedings of the 4th ACM/IEEE Symposium on Edge Computing (SEC)*"
+url_pdf: https://weisongshi.org/papers/liu19-E2M.pdf
 publication_short: ""
 abstract: ""
 draft: false
