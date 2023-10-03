@@ -11,7 +11,7 @@ authors:
   - Zhishan Guo
 publication: 2023 IEEE 29th Real-Time and Embedded Technology and Applications
   Symposium (RTAS)
-publication_short: RTAS 2023
+publication_short: ""
 abstract: ""
 draft: false
 featured: false
