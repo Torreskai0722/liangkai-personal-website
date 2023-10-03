@@ -4,7 +4,7 @@ subtitle: ""
 publication_types:
   - "2"
 authors:
-  - Liangkai Liu
+  - admin
   - Shaoshan Liu
   - Weisong Shi
 publication: "*IEEE Wireless Communications*"
@@ -21,5 +21,5 @@ image:
 summary: ""
 lastmod: 2023-10-02T22:54:58-04:00
 date: 2021-01-01
-publishDate: 2023-10-03T02:54:58.050219Z
+publishDate: 2023-10-03T02:54:58.050Z
 ---
