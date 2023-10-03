@@ -1,19 +1,19 @@
 ---
-title: Energy-efficient machine learning on the edges
-date: '2020-01-01'
-draft: true
-publishDate: '2023-10-03T01:35:39.582431Z'
-authors:
-- Mohit Kumar
-- Xingzhou Zhang
-- Liangkai Liu
-- Yifan Wang
-- Weisong Shi
+title: Energy-Efficient Machine Learning on the Edges
 publication_types:
-- '1'
-abstract: ''
+  - "1"
+authors:
+  - Mohit Kumar
+  - Xingzhou Zhang
+  - admin
+  - Yifan Wang
+  - Weisong Shi
+publication: 2020 IEEE international parallel and distributed processing
+  symposium Workshops (IPDPSW)
+publication_short: IPDPS'20 workshop
+abstract: ""
+draft: false
 featured: false
-publication: '*2020 IEEE international parallel and distributed processing symposium
-  Workshops (IPDPSW)*'
+date: 2020-01-01
+publishDate: 2023-10-03T01:35:39.582431Z
 ---
-
