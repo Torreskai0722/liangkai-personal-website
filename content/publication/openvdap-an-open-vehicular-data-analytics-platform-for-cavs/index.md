@@ -1,5 +1,5 @@
 ---
-title: "OpenVDAP: An open vehicular data analytics platform for CAVs"
+title: "OpenVDAP: An Open Vehicular Data Analytics Platform for CAVs"
 publication_types:
   - "1"
 authors:
@@ -11,7 +11,7 @@ authors:
   - Weisong Shi
   - Hong Zhong
 publication: 2018 IEEE 38th International Conference on Distributed Computing Systems
-publication_short: ICDCS
+publication_short: in ICDCS
 draft: false
 featured: false
 image:
