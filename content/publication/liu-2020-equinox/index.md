@@ -10,10 +10,10 @@ authors:
   - Weisong Shi
 publication: "*2020 International Conference on Connected and Autonomous Driving
   (MetroCAD)*"
-publication_short: MetroCAD'20
+publication_short: ""
 abstract: ""
 draft: false
 featured: false
 date: 2020-01-01
-publishDate: 2023-10-03T01:35:39.705703Z
+publishDate: 2023-10-03T01:35:39.705Z
 ---
