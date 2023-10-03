@@ -26,8 +26,10 @@ featured: false
 tags: []
 projects:
   - Autonomous Driving
+image:
+  ? filename
 summary: In this work, we analyze the time variation in DNN inference in fine
   granularity from six perspectives.
 date: 2023-10-03T02:15:25.999Z
-publishDate: 2023-06-01T00:00:00Z
+publishDate: 2023-06-01T00:00:00.000Z
 ---
