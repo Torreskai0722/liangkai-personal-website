@@ -4,12 +4,17 @@ publication_types:
   - "1"
 authors:
   - Zhang
-  - Qingyang and Wang
-  - Yifan and Zhang
-  - Xingzhou and Liu
-  - Liangkai and Wu
-  - Xiaopei and Shi
-  - Weisong and Zhong
+  - Qingyang
+  - Wang
+  - Yifan
+  - Zhang
+  - Xingzhou
+  - admin
+  - Wu
+  - Xiaopei
+  - Shi
+  - Weisong
+  - Zhong
   - Hong
 publication: 2018 IEEE 38th International Conference on Distributed Computing Systems
 publication_short: ICDCS
