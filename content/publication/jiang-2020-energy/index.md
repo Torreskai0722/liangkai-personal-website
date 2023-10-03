@@ -12,7 +12,7 @@ authors:
   - Christophe Cérin
   - Jian Wan
 publication: "*Computer Communications*"
-publication_short: Computer Communications
+publication_short: ""
 abstract: ""
 draft: false
 featured: false
@@ -26,5 +26,5 @@ image:
 summary: ""
 lastmod: 2023-10-02T22:54:57-04:00
 date: 2020-01-01
-publishDate: 2023-10-03T02:54:57.483298Z
+publishDate: 2023-10-03T02:54:57.483Z
 ---
