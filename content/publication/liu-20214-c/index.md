@@ -11,7 +11,7 @@ publication: "*IEEE Wireless Communications*"
 url_pdf: https://www.weisongshi.org/papers/liu21-4C.pdf
 abstract: ""
 draft: false
-featured: true
+featured: false
 tags: []
 categories: []
 projects: []

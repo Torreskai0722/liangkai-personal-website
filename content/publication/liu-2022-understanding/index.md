@@ -22,7 +22,7 @@ authors:
 publication: "*In Proceedings of the Fourth Workshop on Benchmarking Machine
   Learning Workloads on Emerging Hardware (MLBench)*"
 publication_short: ""
-featured: true
+featured: false
 tags: []
 projects:
   - Autonomous Driving
