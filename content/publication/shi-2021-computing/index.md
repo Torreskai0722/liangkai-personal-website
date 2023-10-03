@@ -7,7 +7,7 @@ authors:
   - admin
 publication: "*Springer*"
 abstract: ""
-draft: true
+draft: false
 featured: false
 image:
   filename: csad.png
