@@ -1,16 +1,16 @@
 ---
-title: A comparison of communication mechanisms in vehicular edge computing
-date: '2020-01-01'
-draft: true
-publishDate: '2023-10-03T01:35:39.644051Z'
-authors:
-- Liangkai Liu
-- Baofu Wu
-- Weisong Shi
+title: A Comparison of Communication Mechanisms in Vehicular Edge Computing
 publication_types:
-- '1'
-abstract: ''
+  - "1"
+authors:
+  - admin
+  - Baofu Wu
+  - Weisong Shi
+publication: "*3rd USENIX Workshop on Hot Topics in Edge Computing (HotEdge 20)*"
+publication_short: HotEdge'20
+abstract: ""
+draft: false
 featured: false
-publication: '*3rd USENIX Workshop on Hot Topics in Edge Computing (HotEdge 20)*'
+date: 2020-01-01
+publishDate: 2023-10-03T01:35:39.644051Z
 ---
-
